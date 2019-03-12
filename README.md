@@ -11,4 +11,4 @@ Results [here](words.txt)
 
 ## Licence
 
-[BSD](LICENCE.txt)
+[BSD](LICENSE.txt)
