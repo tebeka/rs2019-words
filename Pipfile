@@ -9,7 +9,7 @@ verify_ssl = true
 bs4 = "*"
 ipython = "*"
 spacy = "*"
-lxml = "*"
+lxml = ">=4.6.5"
 
 [requires]
 python_version = "3.7"
