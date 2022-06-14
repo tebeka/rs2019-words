@@ -4,9 +4,13 @@ A small survey on [Reversim 2019 proposals](https://summit2019.reversim.com/prop
 
 Results [here](words.txt)
 
+## Depedencies
+
+See [requirements.txt](requirements.txt)
+
 ## Running
 
-    pipenv run python words.py
+    python words.py
 
 
 ## Licence

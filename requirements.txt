@@ -1,0 +1,4 @@
+beautifulsoup4 ~= 4.11
+ipython ~= 8.4
+spacy ~= 3.3
+lxml ~= 4.9
